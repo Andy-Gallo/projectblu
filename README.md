@@ -1,2 +1,2 @@
 # projectblu
-App router learning project for Andres's application 
+Welcome to my App router by Vercel learning project for Andres's application 
